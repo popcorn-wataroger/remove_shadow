@@ -19,3 +19,9 @@ data - shadow_dataset1 - testA（影なし）
 * resultに推論結果が生成されます．
 * modelsに学習モデルがあります．
 
+# 出力例
+<img src="./img/IMG_1374.JPG" width="600">
+
+
+
+
